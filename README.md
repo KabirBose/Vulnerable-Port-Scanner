@@ -14,6 +14,6 @@ It uses Python's Socket library to check for open ports over TCP and UDP.
 
 # Screenshots
 
-### Output of program. Tested using Metasploitable vulnerable VM
+Output of program. Tested using Metasploitable vulnerable VM
 
 ![Program Output](screenshots/output.png)
